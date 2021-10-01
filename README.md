@@ -4,4 +4,4 @@
 
 cool..
 
-what happens now try spash
+what happens now try merge only
