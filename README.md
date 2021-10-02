@@ -1,7 +1,8 @@
 # git-playground
 
-update readme by dev_2 test...
+#hello world test
 
-hello
+cool..
 
-what is this
+what happens now try merge only
+
